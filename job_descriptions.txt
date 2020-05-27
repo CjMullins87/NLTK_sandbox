@@ -1,0 +1,533 @@
+﻿We are seeking a data scientist who is passionate about business process analysis and the intellectual challenge that it offers. The person we seek has previous experience in successful management consulting performing strategic analysis and, or, operations improvement projects for one or more of the larger, well known consultancies. The data scientist will support our field consultant staff by performing analysis on client data and assisting with the development, implementation and integration of pioneering solutions using different methods, techniques and tools. You will ensure the rigor and underlying logic of the team's findings, optimize the analytical storyline and develop superior, easy to comprehend documentation and Power BI dashboards. 
+ 
+The data scientist will be responsible for gathering, analyzing and documenting business processes, developing business cases, developing BI dashboards and providing domain knowledge to the team. This position will occasionally require travel to client projects depending on demand - up to 20% travel in North America. 
+ 
+Simultaneously, you will help senior management further standardize the consulting tasks and related work product with the objectives of: reducing analytical cycle time, lowering field labor costs and reducing document rework and editing. As you become more familiar with our templates, you will also contribute to the refinement and extension of our findings and tools database/website which includes benchmarks, best practices and thousands of business process maps.
+________________
+
+
+CGG is currently looking for a creative and results-focused individual who enjoys working on open-ended problems. Your customers are world-class seismic imagers who strive to image the subsurface with a high degree of accuracy and resolution. Your challenge is to analyze the computational activities and demands of seismic imaging and, with your insights, propose solutions and applications for realms widely ranging from resource scheduling and allocations to automation of imaging-related computations in our HPC environment. In a nutshell, we expect you to propose solutions to known problems and also identify new areas where you can add value with your expertise.
+
+
+We want people who can work with a team to decide what to look for, and who also have the technical ability to go get it. Interest in data mining and machine learning is key, since these are the two areas where you may specialize. You will participate as an engineer on a development team, writing, testing, and deploying code to achieve your goals. We want you if you are an independent thinker and capable of analyzing requirements, extracting data for analysis, and developing algorithms and tools. We process seismic data at the petascale and warehouse information at the terascale. The stakes are high, but your impact can be higher.
+________________
+A Data Scientist leverages their technical abilities to synthesize complex analytical tasks into easily understood data-driven stories. Data Scientists are responsible for organizing, analyzing, and then sharing insights gleaned from data. This positions develops predictive systems and algorithms for identifying trends and driving business solutions. This position also utilizes industry-leading standards for working with very large datasets to extract meaningful business information using statistics, machine learning, and heuristics. This position operates with minimal supervision, and once given general assignments, prioritizes and executes tasks.
+MAJOR TASKS, RESPONSIBILITES AND KEY ACCOUNTABILITIES
+20% - Designs and develops algorithms and models that use large datasets to derive business insights 20% - Establishes scalable, efficient processes for large scale data analyses, model development, and model implementation 20% - Ensures the quality of work output by displaying a keen attention to detail 20% - Presents findings in easily understood ways, focuses on how the data analytics fits into the bigger picture 10% - Mentors and develops the technical skills of Analysts and Sr. Analysts 10% - Seeks further knowledge on key developments within data science, technical skill sets, and additional data sources within Home Depot
+________________
+Job Overview
+
+
+We are looking for a Data Scientist who will support our product, sales, leadership and marketing teams with insights gained from analyzing company data. The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+
+MUST BE U.S. BASED and U.S. CITIZEN.
+
+
+Responsibilities for Data Scientist
+* Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+* Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+* Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+* Develop custom data models and algorithms to apply to data sets.
+* Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+* Develop company A/B testing framework and test model quality.
+* Coordinate with different functional teams to implement models and monitor outcomes.
+* Develop processes and tools to monitor and analyze model performance and data accuracy.
+
+Qualifications For Data Scientist
+   * Strong problem solving skills with an emphasis on product development.
+   * Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets.
+   * Experience working with and creating data architectures.
+   * Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+   * Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+   * Excellent written and verbal communication skills for coordinating across teams.
+   * A drive to learn and master new technologies and techniques.
+   * We’re looking for someone with a minimum of 2-3 years of experience manipulating data sets and building statistical models, and is familiar with the following software/tools:
+   * Coding knowledge and experience with several languages: C, C++, Java,
+   * JavaScript, etc.
+   * Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.
+   * Experience querying databases and using statistical computer languages: R, Python, SLQ, etc.
+   * Experience using web services: Redshift, S3, Spark, DigitalOcean, etc.
+   * Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+   * Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc.
+   * Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+   * Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.
+________________
+
+
+We are looking for data scientist that prefer to work in a team environment and focused in data mining and machine learning is key, these are the two area that you specialize in. You will participate as an engineer on a development team, writing, testing, and deploying code to achieve your goals. We want you if you are an independent thinker and capable of analyzing requirements, extracting data for analysis, and developing algorithms and tools. We process data at the petascale and warehouse information at the terascale. The stakes are high, but your impact can be higher.
+Ph.D.in Computer Science, Math, Statistics, Physics or a closely related field but an equivalent combination of education and experience will be considered
+Proven Machine Learning experience
+Professional experience with Deep Learning Neural Network building
+Demonstrated experience with Deep Learning Framework such as Tensorflow and Keras
+Experience and/or education in at least one of the fields of Big Data, Data Mining, Predictive/Prescriptive Analytics, Optimization, Exploratory Analysis & Visualization
+Knowledge of relational databases, data modeling, and schema normalization techniques
+Familiar with SQL
+Passion for solving complex data engineering and modeling tasks
+Ability to perform testing based on different hypotheses to determine the impact on key performance indicators
+Excellent analytical skills and the ability to work in a collaborative team environment
+Experience in programming (high performance computing is a plus) and developing databases
+Knowledge and experience with UNIX (Linux), Java, and XML, Perl R, and Spark
+Expertise in designing and implementing efficient algorithms
+________________
+We are searching for a Data Scientist — someone who works well in a fast-paced setting. In this position, you will harness vast amounts of data to optimize business results and exercise knowledge of descriptive, predictive, and multivariate statistical techniques and applications, database analysis tools, and techniques to develop strategic insights to drive business and clinical goals. This role will teach developers, architects, and analysts on how to work effectively with vast quantities of data.
+
+
+Think you’ve got what it takes?
+
+
+Responsibilities
+   * Generate and communicate business and clinical insights, using various techniques and understanding the strengths and risks of different approaches to data analysis
+   * Develop algorithms and predictive models to solve critical business problems
+   * Communicate data insights and acts as a data storyteller by translating data analyses into easily-understandable dialogue and terms to influence business decisions or actions
+   * Provide statistical and advanced analytics expertise as needed to data architects, developers, project teams, and leadership team
+   * Estimate times to complete individual tasks and accurately communicate status's on individual assignments and prioritizes to complete tasks on schedule
+   * Participate in the development and maintenance programming activities with management, other Information Services personnel, users, or vendors during all phases of the project life cycle
+________________
+
+
+Senior Data Scientist
+
+
+Avetta connects the world’s leading organizations with qualified suppliers, contractors, and vendors. We bring unmatched visibility to companies through cloud-based technology and human insight. As a result, we foster sustainable growth for businesses and their supply chains. Our SaaS subscription software is used by 85k+ active customers in over 100 countries.
+
+
+Position Summary
+
+
+Reporting to VP of Analytics
+
+
+Candidate will support Avetta's SaaS Analytics platform and our sales/marketing teams with insights gained by analyzing our company data in conjunction with external data
+
+
+Job Responsibilities
+   * Work with stakeholders across the organization to identify analytical opportunities using company and external data
+   * Mine company data to drive customer facing analytics solutions, internal process optimization and marketing analytics
+   * Work with dev team to extract data from Avetta’s diverse databases to a common storage (data lake), cleanse/curate data as necessary, perform data exploratory analysis, build/validate models and work with team to put models into production
+   * Develop processes to monitor model performance and ensure model is performing based on pre-defined metrics
+   * Develop processes to explain model performance and key drivers to non-technical users
+   * Identify project risks, communicate them to leadership/team and work with team to address risks in a timely manner
+   * Mentor junior data scientists
+________________
+
+
+ant to help the largest global enterprises derive business value through the adoption of Artificial Intelligence (AI) and Machine Learning (ML)? Excited by using massive amounts of disparate data to develop ML models? Eager to learn to apply ML to a diverse array of enterprise use cases? Thrilled to be a part of Amazon who has been pioneering and shaping the world’s AI/ML technology for decades?
+
+
+At Amazon Web Services (AWS), we are helping large enterprises build ML models on the AWS Cloud. We are applying predictive technology to large volumes of data and against a wide spectrum of problems. AWS Professional Services works together with AWS customers to address their business needs using AI solutions.
+
+
+AWS Professional Services is a unique consulting team. We pride ourselves on being customer obsessed and highly focused on the AI enablement of our customers. If you have experience with AI, including building ML models, we’d like to have you join our team. You will get to work with an innovative company, with great teammates, and have a lot of fun helping our customers. A successful candidate will be a person who enjoys diving deep into data, doing analysis, discovering root causes, and designing long-term solutions.
+
+
+This is a customer-facing role and you will be required to travel to client locations and deliver professional services as needed.
+
+
+Major Responsibilities Include
+   * Assist customers by being able to deliver a ML project from beginning to end, including understanding the business need, aggregating data, exploring data, building & validating predictive models, and deploying completed models with concept-drift monitoring and retraining to deliver business impact to the organization
+   * Use AWS AI services (e.g., Personalize), ML platforms (SageMaker), and frameworks (e.g., MXNet, TensorFlow, PyTorch, SparkML, scikit-learn) to help our customers build ML models
+   * Research and implement novel ML approaches, including hardware optimizations on platforms such as AWS Inferentia
+   * Work with our other Professional Services consultants (Big Data, IoT, HPC) to analyze, extract, normalize, and label relevant data, and with our Professional Services engineers to operationalize customers’ models after they are prototyped
+
+Basic Qualifications
+      * Bachelor’s degree in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.) or equivalent professional or military experience
+      * Experience with ML fields, e.g., natural language processing, computer vision, statistical learning theory
+      * 4+ years of industry experience in predictive modeling, data science, and analysis
+      * Experience in an ML engineer or data scientist role building ML models
+      * Experience writing code in Python, R, Scala, Java, C++ with documentation for reproducibility
+      * Experience handling terabyte size datasets, diving into data to discover hidden patterns, using data visualization tools, writing SQL, and working with GPUs to develop models
+      * Experience writing and speaking about technical concepts to business, technical, and lay audiences and giving data-driven presentations
+Preferred Qualifications
+      * Master’s degree of PhD in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.)
+      * Ability to develop strategic, baselined, data modeling processes; ability to accurately determine cause-and-effect relationships.
+      * Publications or presentations in recognized ML journals or conferences
+      * Deep technical skills, consulting experience, and business savvy to interface with all levels and disciplines within our customers’ organization
+      * Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+________________
+We accelerate scientific discoveries by providing innovative sample collection devices and scalable services centered around ‘omics profiling, with a particular focus on the trillions of microbes that live in and around us. We seek R&D Data Scientists to join a team of highly motivated, passionate, and collaborative bioinformaticians and data scientists. If you’re looking for a position that will drive innovation in microbiome science and multi-’omic analysis and lead to discovery, our organization is for you.
+
+
+We are built upon innovation, and we will look to you for bold ideas and fresh insights to fuel further innovation. You will collaborate with team members across our organization to identify best-in-class methods for microbiome and multi’omic analyses, develop novel solutions for ‘omics data analysis, analyze data to support internal R&D efforts, and generate manuscripts, white papers, and scientifically-rooted, data-driven materials to support marketing efforts. Data analysis approaches developed by the R&D informatics team will support our product development activities and feed directly into newly expanding service offerings for our customers across pharma, nutrition, live therapeutics development, agriculture, and academic organizations. You will be responsible for providing expert advice on novel ‘omics analysis approaches, data integration and manipulation, and pattern discovery techniques. Experience in a fast-paced environment and passion for data, microbiome research, microbial genomics, and/or multi-’omics research are key traits that characterize the members of our team.
+
+
+Team members who fill Data Scientist roles in this team will be responsible for creating and implementing strategies for data integration and for the analysis and visualization of multi-‘omic data sets while using best practices in reproducible research and cloud-based computing. Successful applicants will work collaboratively within the R&D informatics team and across our organization. In this position you will work with our microbiome services team, software engineering team, and wet-lab R&D teams to lead innovation in microbiome and multi’omic research, services, and products.
+
+
+Specific Efforts Will Include
+Implementing high-quality and state-of-the art data science and computational biology approaches to the analysis of multi-‘omic data
+Developing, testing, and implementing methods related to machine learning and other approaches to pattern discovery with ‘omics data
+Integrating information from diverse sources
+Provide thought leadership with regard to data science methods as they relate to microbiome and multi’omics analyses
+Analysis of internally generated microbiome data for unique and specialized projects
+Working collaboratively with scientists located across multiple geographic sites to solve challenges related to data integration, analysis, and management
+Ongoing career development through the publishing of manuscripts, creation of white papers, and attendance at conferences/workshops
+Graduate-level education or post-graduate training in computational biology, statistics, data science, bioinformatics, microbiology, or related field
+Graduate and/or post-graduate experience working with complex data sets and evaluating and implementing novel approaches for their analysis and visualization
+Proficient in R, Python, and Unix
+Experience with cloud computing (e.g., Amazon Web Services including EC2, S3, & EC2)
+Practical experience with coding best practices and reproducible research
+Strong knowledge of statistics and passion for data analysis and visualizations
+Ability to manage time and meet deadlines on multiple projects of diverse scope
+Self-driven with keen attention to detail and documentation
+Strong communication skills and ability to work effectively with team members
+
+
+Preference Will Be Given To Candidates With
+Wet lab biology and/or microbiome sequence analysis experience
+Demonstrated experience with multi’omic data sets
+3+ years of post-graduate experience in an academic or industry laboratory settin
+________________
+      * Utilize reporting/analytics to assist teams in building alternative business models and projections  
+      * Identify trends and correlation between business actions and business performance on different customer segments 
+      * Understand business context, identify critical business problems, and translate them into actionable information for stakeholders. 
+      * Provide customer insights to drive changes across Marketing, Product and various teams and ultimately to improve customer value and key business metrics 
+      * Identify business opportunities, conduct financial/ROI assessment and develop projection metrics for sales and opportunities
+      * Work with Marketing research and UX team to understand customer segments and their needs, profile our customer base and monitor the base composition change 
+      * Analyze fraud data and make recommendations that decreases fraud/abuse 
+      * Create & maintain dashboards with a variety of internal/external data sources 
+      * Adhere to the policies and procedures of the company 
+      * Exemplify the Core Values of Integrity, Respect, Collaboration and Follow-through
+________________
+
+
+erform process and controls analysis using Failure Mode and Criticality Effects Analysis and other applicable methods
+Research and develop cutting edge analytics projects from concept to market
+Perform calculations for energy analysis, fluid flow, velocity, and others as required
+Design simulation and test methods to prove system designs
+Design and build analytical models, including diagnostic, descriptive, prescriptive, and predictive analytics for equipment operating in the field
+Determine opportunities and needs around the use of machine and deep learning for help in prescriptive and predictive analytics, automation, and model training
+Work with technology team to design scalable models and deploy models into the real-world
+Discover, clean, and transform data as needed
+Perform advanced statistical analyses
+Coordinate with engineering teams and work alongside engineering teams as a trusted partner
+Specify control components such as valve actuators for mobile equipment
+Select and size instrument and sensors equipment
+Work closely across internal departments providing value added solutions for our customers
+Work closely with third-party vendors while building prototypes for testing
+________________
+      * Develop machine learning algorithms and perform advanced statistical analyses of engineering data to obtain insights into trends and opportunities
+      * Develop and maintain appropriate databases
+      * In close collaboration with research and business partners in the US and in the Kingdom of Saudi Arabia, offer mathematical, computational and statistical models from the collected data to automate, augment, improve or speed up human decisions
+      * Research and deliver proof of concepts solutions, responding to clear and specific business needs
+      * Serve as a bridge between machine learning/data science and subject matter applications
+      * Bridge the gap between prototype development and scalable production applications when needed
+      * Develop proper unit test frameworks for artificial intelligence (AI) and ML and provides high level documentation
+      * Communicate appropriate algorithm research and prototype development best practices back to the machine learning group, to improve learning and future capabilities
+      * Publish and present work in journals and at conferences
+      * Develop and maintain statistical reports and visual presentations for management
+      * Perform other duties and participate in special projects as assigned
+________________
+
+
+      * Help build a foundation for state of the art technical and scientific capabilities to support a number of ongoing and planned data analytics projects. Stay on top of industry’s achievements and capabilities, in order to partner with our clients and provide forward-thinking recommendations.
+      * Working alongside machine learning experts, technologists, product managers and other informatics analysts to solve complex business problems. Responsible for identifying the data we should be collecting, devising methods of instrumenting systems to extract this information and working with technologists to develop the process to transform raw data into business insights.
+      * Investigate data visualization and summarization techniques for conveying key findings related to the applied analytics.
+      * Maintain a good communication channel with the Project Managers, Business Analysts and Project Teams.
+      * Establish strong working relationship with business analysts to understand requirements.
+      * Analyze technical needs, requirements, and state of the client’s infrastructure design, integration, and operations with business analyst team and the client.
+      * Follow design models, plans, internal standards, budgets, and processes.
+      * Plan for how code will be organized; how the contracts between different parts of the system will look; and monitor the ongoing implementation of the project's methodologies.
+      * Prepare details documents like business process flows, data flow diagrams, best practice guidelines describing project phases and tasks, deployment scenario for the solution in terms of hardware and software technologies needed etc.
+      * Collaborate with Project Managers and to estimate cost involved in the solution design proposed and compare with customer's budgets; develop overall solution implementation plan.
+      * Communicate and present proposed solutions to client with detailed documents prepared.
+      * Provide support in implementing application installation, customization, and system integration.
+      * Support development teams to review codes, when in doubt
+      * Support QA teams to ensure functionalities are satisfactory and is in adherence to the design and the client requirement.
+      * Provide support for projects in case of issues in development or implementation of solutions.
+      * Follow knowledge management practice in capturing design notes, deliverables, methodologies, and solution development activities for traceability and troubleshooting purposes.
+
+Competencies
+         * Thorough understanding of probability and statistics, econometric time series analysis and similar
+         * Expertise in theory and practice of Machine Learning and Natural Language Processing
+         * Ability to facilitate discussion, drive consensus, and build partnership
+         * Ability to produce high quality work products under pressure and within deadlines.
+         * Ability to handle multiple tasks simultaneously and switch between tasks quickly.
+         * Ability to construct an approach/plan for the execution of priorities
+________________
+
+
+         * Design, development, and implementation of new data driven solutions to support Quantitative Risk Analysis (QRA) model and integrity assessment planning
+         * Design, development, and implementation of new data processes to extract, cleanse, integrate, and conform disparate pipeline data sources from across the organization for loading into dimensional data models
+         * Perform technical design reviews and improvements of existing data processes and data models
+         * Ensure data architecture will support current and future business requirements
+         * Ensure unit test is completed and meets the test plan requirements, system testing is completed, and system is implemented correctly
+         * Create and maintain thorough documentation of system architecture and processes
+         * Identify and present potential pipeline integrity process improvements and follow-through with implementation once stakeholder/management agreement for the improvement is obtained
+         * Provide support for other aspects of integrity related programs, processes, and procedures as required
+Position may be filled at various levels depending on years of experience.
+________________
+
+
+
+
+Consults with UH Researchers on data science projects that are supported through the Humana Institute, and other data science projects.
+
+
+Pre-processes data sets, conducts analysis using state-of-the-art data. science tools and visualizes results to communicate insights from the data.
+
+
+Contributes to scholarly work.
+
+
+Conducts short courses in data science and programming languages.
+
+
+Assists educational programs, in particular summer research programs.
+________________
+You Will Take On The Following Responsibilities
+         * Curate massive amounts of data for thousands of different tradable instruments, including stocks, bonds, futures, contracts, commodities, and more;
+         * Perform manual steps and develop programs and processes to ensure the completeness and integrity of financial reference datasets;
+         * Collaborate with team members to design and develop reliable data pipelines that produce high quality datasets;
+         * Help drive continuous improvements to data quality procedures and a consistent approach to how data quality is measured, monitored and reported;
+         * Create systematic and automated processes and tools that allow the team to scale and rapidly onboard new datasets;
+         * Be part of a team to support the data used by production trading algorithms.
+
+You Should Possess The Following Qualifications
+            * 3+ years professional experience in an environment that prioritized data quality
+            * A bachelor’s degree with a strong academic record, which includes university coursework in programming and computing systems
+            * An understanding of the software development process and exposure to hands-on coding in a professional environment
+            * While financial industry experience is a plus, we are open-minded in our search for critical thinkers who are passionate about technology and data.
+            * Experience with Python (and/or Java)
+            * Experience with SQL and working with a relational database system, such as Microsoft SQL Server.
+            * Proven problem-solving and analytical abilities including pattern detection, root cause analysis, and issue resolution
+            * An understanding of how to design and develop effective data quality tests and measures
+            * Relevant experience in data operations, with proven process improvement skills
+________________
+
+
+            * Curate massive amounts of data for thousands of different tradable instruments, including stocks, bonds, futures, contracts, commodities, and more;
+            * Perform manual steps and develop programs and processes to ensure the completeness and integrity of financial reference datasets;
+            * Collaborate with team members to design and develop reliable data pipelines that produce high quality datasets;
+            * Help drive continuous improvements to data quality procedures and a consistent approach to how data quality is measured, monitored and reported;
+            * Create systematic and automated processes and tools that allow the team to scale and rapidly onboard new datasets;
+            * Be part of a team to support the data used by production trading algorithms.
+
+You Should Possess The Following Qualifications
+               * 3+ years professional experience in an environment that prioritized data quality
+               * A bachelor’s degree with a strong academic record, which includes university coursework in programming and computing systems
+               * An understanding of the software development process and exposure to hands-on coding in a professional environment
+               * While financial industry experience is a plus, we are open-minded in our search for critical thinkers who are passionate about technology and data.
+               * Experience with Python (and/or Java)
+               * Experience with SQL and working with a relational database system, such as Microsoft SQL Server.
+               * Proven problem-solving and analytical abilities including pattern detection, root cause analysis, and issue resolution
+               * An understanding of how to design and develop effective data quality tests and measures
+               * Relevant experience in data operations, with proven process improvement skills
+________________
+
+
+Conducting a variety of bioinformatics work to include: data processing, analyzing and interpreting high-throughput biological and medical data with emphasis on next-generation sequencing (NGS) data, genomics, transcriptomics, proteomics, metabolomics, statistical data analysis, clinical data integration, statistical modeling, machine learning, metagenomics, ecology, phylogenetics, population genetics, evolutionary biology, data mining, advanced analysis method development, data structure and algorithm development, database development and maintenance.
+ • Usage of knowledge from computer science to manipulate and process complex research and medical data in support of biomedical research protocols.
+ • Usage of data management to capture information pertaining to biological and cellular activities based on molecular biology or related research.
+ • Consult and collaborate with basic science and clinical research groups within BAMC, the Institute of Surgical Research (ISR), universities and private sector research facilities to facilitate the gathering and sharing of relevant intellectual knowledge, expertise, and data.
+ • Expert knowledge of and skill in applying statistical formulas to recommend data quality program changes or using the statistics for interpreting and making changes to existing health policies.
+ • Provide consulting support for study design and statistical analysis; with limited or extensive consultations and proposal development
+ • Provide Protocol review and editing, with limited or extensive consultations and proposal development
+.• Produce systematic documentation to ensure reproducibility of process and data analyses.
+• Produce professional documentation in support of data analysis and provide
+• Provide Statistical Analysis Plan (SAP) writing, with limited or extensive consultations and proposal development.
+ • Provide Dataset Management Consultation, with limited or extensive consultations and proposal development. • Provide Data Validity Reporting, with limited or extensive consultations and proposal • Provide Table Generation not limited to the following Table types: Demographics, Efficacy, Safety, Disposition and Experimental Results
+• Provide Hypothesis Testing, with limited or extensive consultations and proposal development.
+ • Provide Result Reporting and Graphic Generation, with limited or extensive consultations and proposal development.
+ • Provide Post Hoc Analysis and Post Hoc Analysis Reporting, with limited or extensive consultations and proposal development.
+ • Provide Poster Creation and Manuscript Reviews, with limited or extensive consultations and proposal development.
+________________
+
+
+HeartMedia is the number one audio company in the United States, reaching nine out of 10 Americans every month – and with its quarter of a billion monthly listeners, has a greater reach than any other media company in the U.S. The company’s leadership position in audio extends across multiple platforms including 850 live broadcast stations; streaming music, radio and on demand via its iHeartRadio digital service available across more than 250 platforms and 2,000 devices including smart speakers, digital auto dashes, tablets, wearables, smartphones, virtual assistants, TVs and gaming consoles; through its influencers; social; branded iconic live music events; and podcasts as the #1 commercial podcast publisher globally. iHeartMedia also leads the audio industry in analytics and attribution technology for its marketing partners, using data from its massive consumer base.
+
+
+The Data Scientist will provide research, modeling, analysis, and guidance using Advanced Analytics and Data Science techniques to develop and support data and model-driven decision making through leading-edge business solutions. The Data Scientist will engage directly with business and technology partners to research, identify, and seek out information, facts, and data, and will conduct and promote scientific, inquisitive, and innovative approaches to business decision problems and technical solutions.
+
+
+Responsibilities
+               * Demonstrate passion about using data assets and mathematical modeling to optimize systems, processes, and products across iHeartMedia
+               * Use emerging tools and technology to develop advanced analytics models and automation in content programming, ad sales and operations, consumer insights, music research, audience attribution, demand and revenue forecasting, and other areas of the company
+               * Assist or lead the formulation, calibration, validation, and implementation of predictive analytics, statistical, and machine learning models
+               * Employ a pragmatic approach to evaluate new algorithms and technologies for positive impact within iHeartMedia
+               * Communicate complex solutions and ideas to a variety of stakeholders (other team members, IT leadership, and business leaders) in easily understandable language
+               * Work on a number of projects as a member of the project team and/or as an individual contributor
+               * Write code that meets standards and delivers desired functionality using agreed upon technology
+               * Participate in system and user acceptance testing
+               * Participate in project planning sessions to gather user requirements
+               * Assist in the preparation of time estimates for project schedules
+               * Troubleshoot production problems within area of expertise
+               * Utilize and stay current in programming languages and software technology
+               * Provide a variety of business intelligence and advanced analytics services, including descriptive, predictive, and prescriptive analytics
+               * Perform advanced exploratory and predictive analytics using machine learning techniques to gain insights on outcomes of interest to help improve patient care through clinical communities
+               * Support DoD/VA internal and external research partnerships in the hearing health community as well as general analyses required within the HCE
+               * Work with both structured and unstructured data employing unsupervised learning models including isolation forest, k-means clustering, anomaly detection, and principal component analysis
+               * Handle Big Data problems utilizing unique technologies that store, manipulate, extract, and create features for processing and modeling
+               * Implement machine learning algorithms with multidimensional data for classification and clustering problems and graphical networks
+               * Provide overall data management and analytic solutions, ensuring adherence to all applicable privacy, data security, and HIPAA regulations and guidelines for Human and Non-Human Subject Researches
+               * Serve as a Subject Matter Expert of MHS/VHA data and make recommendations on improving data collection methodologies related to any hearing requirements. Extract data from multiple data warehousing sources to generate and design standard and ad-hoc reports.
+________________
+
+
+Master's Degree in Statistics, Applied Mathematics, Operations Research or a related analytical field
+2+ years of commercial experience in a data science, machine learning, or predictive analytics role, formulating and implementing predictive analytics models
+A demonstrable scientific foundation and understanding of concepts of predictive analytics and data science such as theoretical statistics, estimation theory, simulation, consumer choice modeling, machine learning, etc.
+Solid programming skills in a general-purpose language and expertise in Python or R
+Experience with SAS Modeling.
+Exceptional analytical, decision-making, and problem-solving skills as well as solid communication and presentation skills with technical and non-technical audiences
+Experience and understanding of software development practice concepts and technology obtained through formal training and/or work experience
+________________
+
+
+               * 3+ years of experience as a Data Scientist or Data Analyst, preferably for an app or digital subscription business. You should have a strong and curious business mindset with an ability to condense complex concepts and analysis into clear and concise takeaways that drive action.
+               * Proficient in SQL languages. Experience with big data technologies such as Hadoop and Spark preferred, building models for data analytics a plus.
+               * We need familiarity with Python or R and data visualization tools such as Tableau for full-stack data analysis, insight synthesis, and presentation.
+               * Experience using relevant statistical packages to build predictive/ML models!
+               * We value familiarity with A/B test experimentation design.
+               * Excellent communication, interpersonal and presentation skills with meticulous attention to detail.
+               * We seek someone with excellent time management skills with the ability to lead work to tight deadlines and handle the pressure of executive requests and product launches.
+________________
+
+
+               * Provide innovative, scalable solutions to drive our hiring to meet Data Science – Product business objectives
+               * Create innovative sourcing and closing strategies and ensuring a high-touch candidate experience
+               * Facilitate and lead meetings and key initiatives and projects with recruiting team and client groups (when needed)
+               * Help hire and build a team of sourcers and recruiters
+               * Provide mentorship, guidance and career development to members of the Data Science – Product recruiting teams
+               * Establish and maintain meaningful relationships with management and key cross-functional stakeholders internally (e.g. Legal, Finance, PR, Growth, Facilities, HR, etc.)
+               * Compile & analyze data and metrics to support business decisions and plans as necessary
+________________
+
+
+               * Build algorithms to optimize the user experience within our product (e.g. recommending coverage, ranking insurance quotes, personalized education)
+               * Collaborate with product managers, designers, engineers, and researchers to design and develop solutions that can successfully integrate with our product
+               * Analyze product data, design experiments, and drive the collection and integration of new data sources
+               * Write maintainable, clean model code to deploy models using best practices from software engineering
+               * Translate complex analytical results into insights to drive product development, and communicate them throughout the organization
+REQUIREMENTS / QUALIFICATIONS:
+               * 2-5+ years experience as a data scientist, data analyst, software engineer or other adjacent roles (role level flexible commensurate with experience)
+               * Solid mathematical foundation and knowledge of a variety of ML and statistical methods (e.g. regression, classification, clustering, experimental design)
+               * Strong proficiency in SQL and either Python or R
+               * Bachelor’s degree in a quantitative field, or equivalent experience
+________________
+
+
+               * Interpret objectives and Key Performance Indicators based on client requirements
+               * Tell comprehensive stories of how customer behavior affects our clients' products and services
+               * Model upcoming trend possibilities, assess risk and present best ROI scenarios
+               * Present monthly campaign metrics, trend modulation and suggestions for optimization in an insightful way
+               * Manage team of Data Analysts and Strategists
+               * Improve data models and algorithms on an ongoing basis to ensure relevant and valuable insights continue being gathered
+               * Interact regularly with internal stakeholders to provide data retrieval, integration, reporting, and analysis support for marketing and product development initiatives
+               * Summarizing, visualizing, communicating and documenting analytic concepts, processes and results for technical and non-technical audiences
+________________
+
+
+               * Text Analysis and Entity Recognition
+
+                  * We send thousands of documents and ingest thousands more from external sources. This data is messy, sometimes unstructured, and we need to be smarter about how we correlate company entities. How can we tell if two companies with similar names are the same or different?
+                  * We are collecting thousands of reviews from our users to capture feedback on different contractors on things like payment timeliness, communication practices, etc… How can we summarize the overall sentiment of reviews for a specific contractor and what are the common pros / cons?
+                  * Advanced Analytics and Data Discovery
+                  * We have a lot of data on the payment history of contractors. How can we rate the payment risk of a contractor and share that information with users in a helpful, digestible way?
+                  * A large commercial construction project can last many years and include hundreds of contractors. Or a single address can have multiple projects over the years with different contractors. Or a property, like an office building, can have different distinct projects going on at one time. How can we tell the difference?
+                  * Data Modeling and Heuristics
+                  * A user is on a project that we know other subcontractors are experiencing slow payment on. What other documents should we recommend the user do to ensure they get paid?
+                  * Most of the construction industry is based on working relationships and prior work history. What relationships and other parties can we infer that are working on the project based on the existing connections from other projects we see in our graph?
+
+
+Skills You'll Need
+                     * 1-3 years of experience working with Machine Learning, Optimization, Neural Networks and/or Artificial Intelligence
+                     * A broad understanding of data science techniques and a willingness to "go deep" and learn more about a specific topic as it relates to our opportunities.
+                     * Data cleansing experience using various utilities and programming techniques
+                     * Text analytics, natural language processing, and entity recognition/extraction to turn documents into information
+                     * Data processing / ETL to prep and clean data for analysis and production pipelines.
+                     * R / Python / SQL / Cypher.
+                     * You'll be helping us build our DS stack out, but familiarity with the tools we have in place will help, including: MySQL, Redshift/Postgres, Neo4j, Kafka, RabbitMQ, and the AWS stack.
+________________
+
+
+                     * Reviews current data structures and recommends optimizations and reconfigurations as required;
+                     * Collaboratively work with key stakeholders from IT, business, and analytics at enterprise levels to enable the creation of an effective enterprise data conversion program;
+                     * Support management and leadership in planning, integration management, development activities, and implementation in support of data conversion;
+                     * Support development of a data strategy, data policies, data architecture, and data standards and procedures.
+                     * Support and develop control mechanisms that span a tiered approach to data conversion, which include (but are not limited to) the identification, capture, logging, and updating of issues; tracking the status of issues; documenting stakeholder views; escalating issues to higher levels of authority; and documenting issue resolutions;
+                     * Serve as a member of, or provide Subject Matter Expertise to, product teams or other organizational structures for the purpose of providing insight to data analysis process;
+                     * Identify specific programs, tasks assignments, and a communications strategy, and capture this information in the existing Roadmap;
+                     * Log and track data management issues including issues related to data quality, business rule conflicts, decision rights, and other potential data issues.
+                     * Deliver all Final Models, including product manuals documentation, used for each analytic product in the language used for the product (i.e., provide R, Python documentation);
+                     * Ensure implementation is conducted in accordance with the Pre-Deployment checklist and deliver a completed Pre-Deployment checklist for verification;
+
+Required Skills And Experience
+                        * Bachelors Degree in computer science, electronics engineering or other engineering or technical discipline (8 years of additional relevant experience may be substituted);
+                        * Minimum of 10 years of relevant experience;
+                        * SQL and .NET experience - no less than 5 years.
+                        * Exceptional written/oral communication skills.
+________________
+
+
+What You'll Be Doing
+                        * Assist field business development in guiding the customer through the enablement process for accelerated GPU computing, leading the technical relationship and assisting customer in building creative solutions based on NVIDIA technology.
+                        * Be an industry leader with vision on integrating NVIDIA technology into Enterprise Cloud architectures to support Data Analytics, HPC, and Deep Learning.
+                        * Be an internal champion among the NVIDIA technical community.
+                        * Find creative applications of NVIDIA’s visual computing technologies across from Cloud end-point to core infrastructure
+                        * Participate (develop content for) developer community activities, meet-up events, tech-days
+                        * Work with leading universities on emerging technology evaluations
+
+What We Need To See
+                           * 8+ years of experience working with O&G Enterprise software
+                           * BS or MS in Engineering, Mathematics, Physics, or Computer Science
+                           * Working knowledge modern Enterprise computing architectures
+                           * Experience with academic researchers and cloud developers
+                           * Exposure to C, Python, Java, or C++ programming
+                           * Parallel programming expertise
+                           * Exposure to GPU technology in Enterprise software
+                           * Direct experience architecting, managing, and supporting shared compute infrastructure software
+                           * Exposure to academic research community supporting computer vision, data analytics, or Deep Learning.
+                           * Strong verbal and written communication skills
+                           * Tight-knit teamwork and interpersonal skills!
+                           * Ability to multitask optimally in a multifaceted environment
+                           * Has strong analytical and problem solving skills
+                           * Desire to be involved in diverse and innovative projects
+________________
+
+
+                           * Track and monitor the performance of Whole Foods marketing campaigns and channels.
+                           * Build, maintain and evolve marketing attribution models to quantify the effect of marketing communications on customer behavior, sales and profitability across paid, owned and earned channels (e. g., tv, radio, out of home, paid search, display, online video, direct mail, social media, etc.).
+                           * Prepare quarterly media marketing effectiveness reviews to inform media plans, financial forecasting, and identify areas for efficiency improvements.
+                           * Work closely with the Media Planning team to solve key marketing measurement challenges and ensure that analyses are relevant and useful to inform marketing strategy.
+                           * Design data visualizations and presentations to track marketing channel performance and communicate business impact to marketing leadership teams.
+                           * Explain complex modeling approaches in simple terms; Develop compelling narratives that connect modeling results with marketing problems.
+                           * Build & maintains strong working relationships across departments or teams based on trust and mutual respect. Communicate with senior stakeholder to balance stakeholder and analytics perspectives.
+                           * Partner with marketing program and channel managers to ensure that tracking, reporting and analytics are tied to marketing campaign objectives.
+                           * Work with media agencies and marketing operations teams to ensure that media tracking is in place with high levels of data quality.
+                           * Nurture strong working relationships across departments and cross-functional stakeholders based on trust and mutual respect. Communicate with senior stakeholders to balance stakeholder vis-à-vis analytics perspectives
+
+Desired Skills & Experience
+                              * Bachelor’s degree in Statistics, Business, Economics, or related quantitative discipline. Advanced degree strongly preferred.
+                              * 3-5 years professional experience in Analytics, Marketing, Business Analysis. Experience utilizing marketing measurement methods preferred, including a/b testing, multi-touch attribution, and media mix modeling.
+                              * Strong knowledge of SQL, R, Python, strongly preferred. Scala and Java are a plus.
+                              * Experience working with large enterprise databases and distributed processing systems (e.g., Hadoop, EMR), with demonstrated ability to independently query and prepare data for analysis.
+                              * Strong communication skills with the ability to explain complex analytical work to audiences with varying technical knowledge.
+                              * Working knowledge of marketing operations, ad tech, media planning, and media performance metrics.
+                              * Experience with advanced analytical techniques, including time series forecasting, clustering, and machine learning (classification and regression).
+                              * Experience with brick and mortar retail is a plus.
+                              * Exceptional analytic skills coupled with solid business thinking.
+                              * Self-directed, innovative thinker. In addition to a strong attention to detail, strong candidates will also be able to see the strategic implications for the business in the big picture. You are fluent in telling the story to both technical and non-technical audiences.
+                              * Strong candidates will have a curious mind, a passion for synthesizing information from multiple sources, the ability to interpret data through the lens of shopper behavior, and a habit of translating data into insights that drive action.
+________________
+
+
+                              * Statistical computer languages using R, SQL, etc. to manipulate data and draw insights from large data sets
+                              * A variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and communicate their real-world advantages/drawbacks
+                              * Advanced statistical techniques and concepts (regression, properties of distributions, statistical tests, and proper usage, etc.) and experience with applications
+                              * Experience creating visualization and presenting data for stakeholders
+                              * Extensive Experience in Python OR RStudio. Experience in DL Frameworks like Tensorflow.
+                              * Experience in Leading/Mentoring a team of data scientists in ML/DL
+                              * Strong understanding of image analysis to predictive maintenance on vibration analysis
+                              * Ability to prototype/build ML applications using cognitive Analytics technologies in close collaboration with Solution Architecture and Software Engineering teams
+                              * Proven ability to rationalize disparate data sources and the ability to intuit the large picture within a dataset
+                              * Knowledge and experience working with Hadoop Eco System, Spark and distributed computing systems is a plus
+
+
+Requirements:
+                              * Master's Degree preferable Ph.D.in Data Science or AI
+                              * 6+ years of industry experience in Data Science
+                              * At least 4 years of working experience in Machine Learning/Deep Learning
+                              * Strong communication skills and ability to present to multiple team members while working on projects for IoT
+                              * Analytics experience in any one Industry (or more) healthcare, automotive, aerospace, consumer products, and manufacturing (indicative list)
